@@ -73,7 +73,37 @@ Windows下Maya环境配置：
 
 group 33, 34是一个小组，这里共上传了两个group共三十张匹配结果。其中第1张图为模板动作截图，后30张图为模型匹配结果截图。其中，前20张为助教提供模型，后10张为网上下载模型。
 
-![image](../img/pose2carton.png)
+![image](../img/00.png)
+![image](../img/01.png)
+![image](../img/02.png)
+![image](../img/03.png)
+![image](../img/04.png)
+![image](../img/05.png)
+![image](../img/06.png)
+![image](../img/07.png)
+![image](../img/08.png)
+![image](../img/09.png)
+![image](../img/10.png)
+![image](../img/11.png)
+![image](../img/12.png)
+![image](../img/13.png)
+![image](../img/14.png)
+![image](../img/15.png)
+![image](../img/16.png)
+![image](../img/17.png)
+![image](../img/18.png)
+![image](../img/19.png)
+![image](../img/20.png)
+![image](../img/21.png)
+![image](../img/22.png)
+![image](../img/23.png)
+![image](../img/24.png)
+![image](../img/25.png)
+![image](../img/26.png)
+![image](../img/27.png)
+![image](../img/28.png)
+![image](../img/29.png)
+![image](../img/30.png)
 
 
 
