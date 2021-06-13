@@ -10,9 +10,11 @@ Windows下Maya环境配置：
 
 1、下载安装maya。先申请一个autodesk账户，同时申请教育版权限，之后会获得maya2020安装包的链接，安装maya2020
 
-2、安装pip和numpy。进入maya2020安装目录，进入bin文件夹，将该路径添加到环境变量。接着打开cmd输入mayapy并安装pip和numpy
+2、根据路径C:\Users\用户名\Documents\maya\2020，找到zh_CN文件夹，并将其中内容放到该文件所在的目录。
 
-3、检查环境。在mayapy中检测一系列的import命令能否顺利运行，如果可以，那么环境配置已经完成。
+3、安装pip和numpy。进入maya2020安装目录，进入bin文件夹，将该路径添加到环境变量。接着打开cmd输入mayapy并安装pip和numpy
+
+4、检查环境。在mayapy中检测一系列的import命令能否顺利运行，如果可以，那么环境配置已经完成。
 
 # 匹配流程
 
@@ -69,7 +71,7 @@ Windows下Maya环境配置：
 
 # 项目结果
 
-group 34 和group 33是一个小组，这里上传了两个group共三十张匹配结果
+group 33, 34是一个小组，这里共上传了两个group共三十张匹配结果。其中第1张图为模板动作截图，后30张图为模型匹配结果截图。其中，前20张为助教提供模型，后10张为网上下载模型。
 
 ![image](../img/pose2carton.png)
 
@@ -82,4 +84,4 @@ group 34 和group 33是一个小组，这里上传了两个group共三十张匹�
 
 所涉及代码及数据的最终解释权归倪冰冰老师课题组所有
 
-Group 34
+Group 33, 34
