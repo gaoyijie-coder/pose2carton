@@ -82,4 +82,4 @@ Windows下Maya环境配置：
 
 所涉及代码及数据的最终解释权归倪冰冰老师课题组所有
 
-Group xx
+Group 34
