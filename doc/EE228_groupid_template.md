@@ -7,7 +7,6 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 # Maya 环境配置
 
 Windows下Maya环境配置：
-
 1、下载安装maya。先申请一个autodesk账户，同时申请教育版权限，之后会获得maya2020安装包的链接，安装maya2020
 2、安装pip和numpy。进入maya2020安装目录，进入bin文件夹，将该路径添加到环境变量。接着打开cmd输入mayapy并安装pip和numpy
 3、检查环境。在mayapy中检测一系列的import命令能否顺利运行，如果可以，那么环境配置已经完成。
