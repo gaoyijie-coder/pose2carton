@@ -69,7 +69,7 @@ Windows下Maya环境配置：
 
 # 项目结果
 
-这里放置来自你最终匹配结果的截图， 如
+group 34 和group 33是一个小组，这里上传了两个group共三十张匹配结果
 
 ![image](../img/pose2carton.png)
 
